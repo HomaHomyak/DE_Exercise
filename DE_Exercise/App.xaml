@@ -1,0 +1,9 @@
+﻿<Application x:Class="DE_Exercise.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DE_Exercise"
+             StartupUri="Main/Authorization.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
